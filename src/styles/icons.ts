@@ -15,3 +15,5 @@ export { Chat } from 'styled-icons/heroicons-outline'
 export { ArrowLeft } from 'styled-icons/heroicons-solid'
 
 export { Retweet } from 'styled-icons/evil'
+
+export { Twitter } from 'styled-icons/icomoon'
